@@ -152,3 +152,6 @@ let tectonicdata = "https://raw.githubusercontent.com/fraxen/tectonicplates/mast
       weight: 5 
       }).addTo(tectonicPlates);
   });
+	  tectonicPlates.addTo(map);
+});
+	
